@@ -3,7 +3,7 @@ Group project master file
 
 | Name | Major | Study Description | Contact Info | Links to Website/Research  |
 |------|-------|-------------------|--------------|----------------------------|
-| Sherry     |   M.Sc. Botany    |      Molecular Plant Pathology: SAR in Bread Wheat           |        sherry.sun@botany.ubc.ca      |                            |
+| Sherry Sun |   M.Sc. Botany    |      Molecular Plant Pathology: SAR in Bread Wheat           |        sherry.sun@botany.ubc.ca      |                            |
 |      |       |                   |              |                            |
 |      |       |                   |              |                            |
 |      |       |                   |              |                            |
